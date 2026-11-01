@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment / secrets
+.env
+.env.*
+
+# Caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
